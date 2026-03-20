@@ -21,4 +21,5 @@ cd doc-qa-agent
 pip install -r requirements.txt
 streamlit run app.py
 ## Demo
-![Demo Screenshot](demo.png)
+![Demo 1](demo%20(1).png)
+![Demo 2](demo%20(2).png)
