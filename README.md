@@ -20,3 +20,5 @@ git clone https://github.com/vishu389/doc-qa-agent
 cd doc-qa-agent
 pip install -r requirements.txt
 streamlit run app.py
+## Demo
+![Demo Screenshot](demo.png)
